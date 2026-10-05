@@ -1,7 +1,3 @@
-# CSE325 - Software Construction and Development
-# Lab 05: NLP for Requirements Engineering & Automated Requirement Analysis
-# Seerat Rauf - SP24-BSE-27
-
 # Scenario: stakeholder notes about student login, event registration and
 # reminders, run through extraction, classification and a vagueness pass.
 
